@@ -1,0 +1,10 @@
+#RESTful WS
+
+- Retrive all Users   - GET /users
+- Create a User       - POST /users
+- Retreive one User   - GET /user/{id}
+- Delete a User       - DELETE /users/{id}
+
+- Retrieve all post for a User  - GET /users/posts
+- Create a posts for a User     - GET /users/{id}/posts
+- Retrieve details of a post     - GET /users/posts/{post_id}
